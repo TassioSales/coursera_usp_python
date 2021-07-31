@@ -6,7 +6,3 @@ while qtd >= cont:
     lista_notas.append(notas)
     cont += 1    
 print(f"A media do aluno e {sum(lista_notas) / len(lista_notas)}")
-            
-                                  
-    
-    
