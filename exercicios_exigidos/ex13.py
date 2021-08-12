@@ -1,4 +1,4 @@
-x = int(input("Digite um número inteiro: "))
+x = int(input("Numero: "))
 
 soma = 0
 
