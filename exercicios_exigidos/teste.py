@@ -1,5 +1,8 @@
-def func(x):
-    return x + 1
+animais = ["gato", "cachorro", "papagaio","arara", "jacaré"]
 
-def test_answer():
-    assert func(3) == 5
+
+
+animais[3] = "piriquito"
+
+
+print(animais)
