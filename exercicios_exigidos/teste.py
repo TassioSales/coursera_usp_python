@@ -1,8 +1,6 @@
-animais = ["gato", "cachorro", "papagaio","arara", "jacaré"]
+carnes = ["picanha", "alcatra", "filé mignon", "cupim"]
+x = carnes
+del (x[-1])
 
-
-
-animais[3] = "piriquito"
-
-
-print(animais)
+print(carnes)
+print(x)
